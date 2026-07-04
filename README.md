@@ -27,6 +27,5 @@ The data revealed a powerful product insight: **The best kind of help is the one
 ## 📥 Dive Deeper
 Want to explore the benchmarking data, the exact A/B test setup, and the complete behavioral analysis?
 
-👉 **[Download the Full Case Study (PDF) - Direct Link](./smb-case-study.pdf?raw=true)**
-
+👉 **[Download the Full Case Study (PDF) - Direct Link](https://raw.githubusercontent.com/nedazamani/smb-case-study/main/smb-case-study.pdf)**
 > 💡 **UX Note:** *Due to the high-quality charts and comprehensive data in this report, GitHub's built-in preview might not render properly. Please use the direct download link above for the best reading experience.*
